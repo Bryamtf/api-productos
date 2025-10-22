@@ -1,6 +1,6 @@
 require('dotenv').config();
 const http = require("http");
-const hostname = "0.0.0.0"|| "127.0.0.1";
+const hostname = "0.0.0.0";
 const port = process.env.PORT || 4000;
 // leer el json
 const path = require('path');

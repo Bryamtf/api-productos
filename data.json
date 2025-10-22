@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "Nombre": "Celular",
+    "stock": 20,
+    "precio":1500
+  },
+  {
+    "id": 2,
+    "Nombre": "Camara",
+    "stock": 30,
+    "precio": 2000
+  },
+  {
+    "id": 3,
+    "Nombre": "Impresora",
+    "stock": 20,
+    "precio": 3000
+  },{
+    "id":4,
+    "Nombre": "Equipo de sonido",
+    "precio":600,
+    "stock":2
+  }
+]
